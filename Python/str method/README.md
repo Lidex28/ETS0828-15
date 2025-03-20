@@ -9,3 +9,9 @@ This method does not take any parameters.
 # isupper()
 The isupper() method in Python is a built-in string method that checks whether all the characters in a string are uppercase. If all the characters in the string are uppercase, the method returns True; otherwise, it returns False.
 syntax:string.isupper()
+
+#strip()
+Method: strip()
+The strip() method removes leading and trailing whitespace (spaces, newlines, or tabs) from a string.
+
+Syntax:string.strip()
