@@ -24,4 +24,16 @@ Converts only the first character of the string to uppercase and makes the rest 
 # str.swapcase()
 Swaps the case of all characters in the string. Uppercase becomes lowercase and vice versa.
 
+# str.find()
+Searches for a substring and returns the index of its first occurrence. Returns -1 if not found.
+
+# str.index()
+Similar to find(), but raises a ValueError if the substring is not found.
+
+# str.startswith()
+Checks if a string starts with the specified prefix. Returns True or False.
+
+
+
+
 
