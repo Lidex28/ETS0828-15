@@ -33,6 +33,17 @@ Similar to find(), but raises a ValueError if the substring is not found.
 # str.startswith()
 Checks if a string starts with the specified prefix. Returns True or False.
 
+# str.endswith()
+ Checks if a string ends with the specified suffix. Returns True or False.
+
+# str.count()
+ Counts the number of occurrences of a substring within the string.
+
+# str.replace()
+ Replaces occurrences of a specified substring with another substring.
+
+
+
 
 
 
