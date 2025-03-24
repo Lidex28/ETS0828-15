@@ -43,6 +43,29 @@ Checks if a string starts with the specified prefix. Returns True or False.
  Replaces occurrences of a specified substring with another substring.
 
 
+# str.endswith()
+Checks if a string ends with the specified suffix. Returns True or False.
+
+# str.count()
+Counts the number of occurrences of a substring within the string
+
+# str.replace()
+Replaces occurrences of a specified substring with another substring.
+
+#  str.lstrip()
+Removes leading (left-side) whitespace or specified characters from the string.
+
+# str.rstrip()
+Removes trailing (right-side) whitespace or specified characters from the string.
+
+# str.split()
+Splits the string into a list of substrings based on a specified delimiter (default is whitespace).
+
+
+
+
+
+
 
 
 
