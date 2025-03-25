@@ -61,6 +61,15 @@ Removes trailing (right-side) whitespace or specified characters from the string
 # str.split()
 Splits the string into a list of substrings based on a specified delimiter (default is whitespace).
 
+# str.join()
+Joins elements of an iterable (like a list or tuple) into a single string, using the string as a separator.
+
+# str.isalpha()
+Returns True if all characters in the string are alphabetic (letters) and there is at least one character.
+# str.isdigit()
+Returns True if all characters in the string are digits and there is at least one character.
+
+
 
 
 
