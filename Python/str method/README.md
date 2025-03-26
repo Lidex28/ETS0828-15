@@ -69,6 +69,26 @@ Returns True if all characters in the string are alphabetic (letters) and there 
 # str.isdigit()
 Returns True if all characters in the string are digits and there is at least one character.
 
+# str.isalnum()
+Checks if all characters in the string are alphanumeric (letters or digits).
+
+Returns True if the string consists only of letters (a-z, A-Z) and/or digits (0-9), and is not empty.
+
+Returns False if the string contains spaces, special characters, or is empty.
+
+# str.isspace()
+
+Checks if all characters in the string are whitespace characters (' ', '\t', '\n', etc.).
+
+Returns True if the string consists only of spaces, tabs, or newlines, and is not empty.
+
+Returns False if the string contains any non-whitespace character or is empty.
+
+# str.format()
+
+Used for string formatting by inserting values into placeholders {} within a string.
+
+It allows flexible and readable formatting of strings.
 
 
 
