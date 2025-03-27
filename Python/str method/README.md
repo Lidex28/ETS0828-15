@@ -90,6 +90,15 @@ Used for string formatting by inserting values into placeholders {} within a str
 
 It allows flexible and readable formatting of strings.
 
+# f-strings
+f-strings embed expressions in strings.
+
+# len()
+returns length of strings/lists
+# str.encode()
+converts strings to bytes, 
+
+
 
 
 
