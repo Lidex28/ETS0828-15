@@ -9,3 +9,15 @@ Removes the first occurrence of a specified element.
 
 Reverses the elements of the list in place.
 
+# insert(index, element)
+
+Inserts an element at a specified index.
+
+# pop(index) 
+
+Removes and returns the element at the given index (default is the last element).
+
+sort()
+
+Sorts the list in ascending order by default.
+
