@@ -17,7 +17,18 @@ Inserts an element at a specified index.
 
 Removes and returns the element at the given index (default is the last element).
 
-sort()
+# sort() 
 
 Sorts the list in ascending order by default.
 
+# extend()
+
+Adds elements of an iterable (list, tuple, etc.) to the end of the list
+
+# index()
+
+Returns the index of the first occurrence of a specified element
+
+# count()
+
+Returns the number of times a specified element appears in the list.
