@@ -32,3 +32,15 @@ Returns the index of the first occurrence of a specified element
 # count()
 
 Returns the number of times a specified element appears in the list.
+
+# clear() 
+
+Removes all elements from the list.
+
+# copy() 
+
+Returns a shallow copy of the list
+
+# max() 
+
+Returns the largest element in the list.
