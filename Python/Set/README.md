@@ -16,3 +16,10 @@ Returns a set, that is the intersection of two other sets
 Removes the items in this set that are not present in other, specified set(s)
 # isdisjoint()
 Returns whether two sets have a intersection or not
+# issubset()
+Returns whether another set contains this set or not
+# issuperset()
+Returns whether this set contains another set or not(>=)
+Returns whether all items in other, specified set(s) is present in this set(>)
+# pop()
+Removes an element from the set
